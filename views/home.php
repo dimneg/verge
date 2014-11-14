@@ -1,1 +1,2 @@
-Home Page <br /><br /><?php echo $message; ?>
+Home Page <br /><br />
+<?php echo $message; ?>
